@@ -1,0 +1,187 @@
+{
+  "id": "PHONICS",
+  "title": "Phonics and Reading",
+  "description": "Letter sounds, tracing, and simple word practice.",
+  "levels": [
+    {
+      "index": 1,
+      "title": "Letter A",
+      "lessonText": "A is for apple. Listen and say the sound.",
+      "prompt": "Which picture starts with the sound /a/?",
+      "choices": ["apple", "banana", "cat", "star"],
+      "correctAnswer": "apple",
+      "guide": "Titik"
+    },
+    {
+      "index": 2,
+      "title": "Letter B",
+      "lessonText": "B is for ball. Press the letter you hear.",
+      "prompt": "Choose the picture that begins with B.",
+      "choices": ["ball", "fish", "car", "tree"],
+      "correctAnswer": "ball",
+      "guide": "Titik"
+    },
+    {
+      "index": 3,
+      "title": "Letters C & D",
+      "lessonText": "C is for cat and D is for dog. Hear their sounds.",
+      "prompt": "Which picture starts with the sound /k/?",
+      "choices": ["cat", "dog", "duck", "cup"],
+      "correctAnswer": "cat",
+      "guide": "Titik"
+    },
+    {
+      "index": 4,
+      "title": "Letters E & F",
+      "lessonText": "E is for egg and F is for fish. Listen closely.",
+      "prompt": "Find the picture that starts with E.",
+      "choices": ["egg", "fish", "frog", "fan"],
+      "correctAnswer": "egg",
+      "guide": "Titik"
+    },
+    {
+      "index": 5,
+      "title": "Letters G & H",
+      "lessonText": "G is for goat and H is for hat. Hear the start sound.",
+      "prompt": "Which word starts with the /h/ sound?",
+      "choices": ["hat", "goat", "girl", "grape"],
+      "correctAnswer": "hat",
+      "guide": "Titik"
+    },
+    {
+      "index": 6,
+      "title": "Letters I & J",
+      "lessonText": "I is for igloo and J is for jar. Practice the sounds.",
+      "prompt": "Which picture starts with the sound /i/?",
+      "choices": ["igloo", "jar", "jam", "jet"],
+      "correctAnswer": "igloo",
+      "guide": "Titik"
+    },
+    {
+      "index": 7,
+      "title": "Letters K & L",
+      "lessonText": "K is for kite and L is for lion. Say them aloud.",
+      "prompt": "Choose the picture that begins with L.",
+      "choices": ["lion", "kite", "king", "koala"],
+      "correctAnswer": "lion",
+      "guide": "Titik"
+    },
+    {
+      "index": 8,
+      "title": "Letters M & N",
+      "lessonText": "M is for moon and N is for nest. Feel your lips move.",
+      "prompt": "Which picture starts with the sound /m/?",
+      "choices": ["moon", "nest", "nut", "net"],
+      "correctAnswer": "moon",
+      "guide": "Titik"
+    },
+    {
+      "index": 9,
+      "title": "Letters O & P",
+      "lessonText": "O is for owl and P is for pen. Notice the round sounds.",
+      "prompt": "Which picture starts with the sound /p/?",
+      "choices": ["pen", "owl", "orange", "ox"],
+      "correctAnswer": "pen",
+      "guide": "Titik"
+    },
+    {
+      "index": 10,
+      "title": "Letters Q & R",
+      "lessonText": "Q is for queen and R is for rainbow. Listen carefully.",
+      "prompt": "Find the picture that starts with R.",
+      "choices": ["rainbow", "queen", "quilt", "quiz"],
+      "correctAnswer": "rainbow",
+      "guide": "Titik"
+    },
+    {
+      "index": 11,
+      "title": "Letters S & T",
+      "lessonText": "S is for sun and T is for tree. Hiss like a snake /s/.",
+      "prompt": "Which picture starts with the sound /s/?",
+      "choices": ["sun", "tree", "top", "tiger"],
+      "correctAnswer": "sun",
+      "guide": "Titik"
+    },
+    {
+      "index": 12,
+      "title": "Letters U & V",
+      "lessonText": "U is for umbrella and V is for van. Say the short /u/.",
+      "prompt": "Which picture starts with U?",
+      "choices": ["umbrella", "van", "vase", "vest"],
+      "correctAnswer": "umbrella",
+      "guide": "Titik"
+    },
+    {
+      "index": 13,
+      "title": "Letters W, X, Y, Z",
+      "lessonText": "W is for wind, X in fox, Y for yarn, Z for zebra.",
+      "prompt": "Which word ends with the sound /ks/?",
+      "choices": ["fox", "zebra", "yarn", "wind"],
+      "correctAnswer": "fox",
+      "guide": "Titik"
+    },
+    {
+      "index": 14,
+      "title": "Blending: CAT",
+      "lessonText": "Put sounds together: /k/ - /a/ - /t/ makes CAT.",
+      "prompt": "Blend the sounds /k/ /a/ /t/. What word is it?",
+      "choices": ["cat", "bat", "rat", "mat"],
+      "correctAnswer": "cat",
+      "guide": "Titik"
+    },
+    {
+      "index": 15,
+      "title": "Blending: DOG",
+      "lessonText": "Put sounds together: /d/ - /o/ - /g/ makes DOG.",
+      "prompt": "Blend the sounds /d/ /o/ /g/. What word is it?",
+      "choices": ["dog", "fog", "log", "bag"],
+      "correctAnswer": "dog",
+      "guide": "Titik"
+    },
+    {
+      "index": 16,
+      "title": "Blending: SUN",
+      "lessonText": "Put sounds together: /s/ - /u/ - /n/ makes SUN.",
+      "prompt": "Blend the sounds /s/ /u/ /n/. What word is it?",
+      "choices": ["sun", "run", "fun", "bun"],
+      "correctAnswer": "sun",
+      "guide": "Titik"
+    },
+    {
+      "index": 17,
+      "title": "Blending: PIG",
+      "lessonText": "Put sounds together: /p/ - /i/ - /g/ makes PIG.",
+      "prompt": "Blend the sounds /p/ /i/ /g/. What word is it?",
+      "choices": ["pig", "big", "dig", "wig"],
+      "correctAnswer": "pig",
+      "guide": "Titik"
+    },
+    {
+      "index": 18,
+      "title": "Sight Words: I and A",
+      "lessonText": "Some words we read on sight: 'I' and 'a'. I see a star.",
+      "prompt": "Tap the word 'I' in the choices.",
+      "choices": ["I", "a", "the", "see"],
+      "correctAnswer": "I",
+      "guide": "Titik"
+    },
+    {
+      "index": 19,
+      "title": "Sight Words: THE and IS",
+      "lessonText": "Common sight words: 'the' and 'is'. The sun is bright.",
+      "prompt": "Which word is 'the'?",
+      "choices": ["the", "is", "and", "in"],
+      "correctAnswer": "the",
+      "guide": "Titik"
+    },
+    {
+      "index": 20,
+      "title": "Phonics Celebration",
+      "lessonText": "Great job! Let's review sounds, blends, and sight words.",
+      "prompt": "Which word matches the sound of a shining /s/ /u/ /n/?",
+      "choices": ["sun", "cat", "dog", "pig"],
+      "correctAnswer": "sun",
+      "guide": "Titik"
+    }
+  ]
+}

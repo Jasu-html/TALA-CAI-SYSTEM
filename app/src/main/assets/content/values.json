@@ -1,0 +1,97 @@
+{
+  "id": "VALUES",
+  "title": "Good Values",
+  "description": "Kindness, respect, honesty, and helping others.",
+  "levels": [
+    {
+      "index": 1,
+      "title": "Sharing is Caring",
+      "lessonText": "When we share, everyone feels happy. Share your toys and snacks.",
+      "prompt": "Your friend has no pencil. What is the kind choice?",
+      "choices": ["Share your pencil", "Keep both pencils", "Hide your pencil", "Walk away"],
+      "correctAnswer": "Share your pencil",
+      "guide": "Tala"
+    },
+    {
+      "index": 2,
+      "title": "Saying Please and Thank You",
+      "lessonText": "Good manners make people feel respected. Say please and thank you.",
+      "prompt": "Your teacher gives you a book. What do you say?",
+      "choices": ["Thank you", "Give me more", "Nothing", "That is mine"],
+      "correctAnswer": "Thank you",
+      "guide": "Tala"
+    },
+    {
+      "index": 3,
+      "title": "Listening When Others Speak",
+      "lessonText": "Listening shows respect. Look at the speaker and wait your turn.",
+      "prompt": "Your classmate is telling a story. What should you do?",
+      "choices": ["Listen quietly", "Talk over them", "Walk away", "Laugh loudly"],
+      "correctAnswer": "Listen quietly",
+      "guide": "Tala"
+    },
+    {
+      "index": 4,
+      "title": "Telling the Truth",
+      "lessonText": "Honesty builds trust. Tell the truth even when it is hard.",
+      "prompt": "You broke a cup by accident. What is the honest choice?",
+      "choices": ["Tell the truth", "Hide the pieces", "Blame someone", "Say nothing"],
+      "correctAnswer": "Tell the truth",
+      "guide": "Tala"
+    },
+    {
+      "index": 5,
+      "title": "Helping at Home",
+      "lessonText": "Helping your family shows love. Do small chores with a happy heart.",
+      "prompt": "Your mother is carrying a heavy bag. What can you do?",
+      "choices": ["Help carry it", "Watch her", "Run away", "Complain"],
+      "correctAnswer": "Help carry it",
+      "guide": "Tala"
+    },
+    {
+      "index": 6,
+      "title": "Taking Care of Our Things",
+      "lessonText": "We care for our belongings and our classroom. Put things back.",
+      "prompt": "You finished reading a book. What should you do?",
+      "choices": ["Return it to the shelf", "Leave it on the floor", "Tear a page", "Hide it"],
+      "correctAnswer": "Return it to the shelf",
+      "guide": "Tala"
+    },
+    {
+      "index": 7,
+      "title": "Values in Action: In Class",
+      "lessonText": "In class, we are kind, respectful, and ready to learn.",
+      "prompt": "A classmate cannot solve a problem. What do you do?",
+      "choices": ["Offer help", "Laugh at them", "Ignore them", "Copy their work"],
+      "correctAnswer": "Offer help",
+      "guide": "Tala"
+    },
+    {
+      "index": 8,
+      "title": "Values in Action: At Home",
+      "lessonText": "At home, we show love and respect to our family.",
+      "prompt": "Your little sister wants to play. What is the kind choice?",
+      "choices": ["Play with her", "Shout at her", "Ignore her", "Take her toy"],
+      "correctAnswer": "Play with her",
+      "guide": "Tala"
+    },
+    {
+      "index": 9,
+      "title": "Values in Action: In Our Community",
+      "lessonText": "In our community, we care for people and places.",
+      "prompt": "You see trash on the playground. What is the responsible choice?",
+      "choices": ["Put it in the bin", "Step on it", "Ignore it", "Throw more trash"],
+      "correctAnswer": "Put it in the bin",
+      "guide": "Tala"
+    },
+    {
+      "index": 10,
+      "title": "Good Values Celebration",
+      "lessonText": "You have learned many good values. Keep practicing them every day.",
+      "prompt": "Which value means telling the truth?",
+      "choices": ["Honesty", "Sharing", "Listening", "Helping"],
+      "correctAnswer": "Honesty",
+      "guide": "Tala"
+    }
+  ]
+}

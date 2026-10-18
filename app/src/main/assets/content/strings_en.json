@@ -1,0 +1,12 @@
+{
+  "debug.greeting": {
+    "text": "Hello, {name}! Let's learn together."
+  },
+  "debug.character": {
+    "text": "I am {character}, and I am ready to learn."
+  },
+  "letter.B": {
+    "text": "B says buh, as in ball.",
+    "soundText": "buh"
+  }
+}

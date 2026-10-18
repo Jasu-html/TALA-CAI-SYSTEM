@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TALA</string>
+    <string name="tap_for_grownup_area">Tap for grown-up area</string>
+    <string name="i_m_ready">I\'m ready!</string>
+    <string name="enter_student_name">Enter your name</string>
+    <string name="welcome">Welcome to TALA!</string>
+    <string name="let_s_start_learning">Let\'s start learning!</string>
+    <string name="home">Home</string>
+    <string name="level">Level</string>
+    <string name="lesson">Lesson</string>
+    <string name="practice">Practice</string>
+    <string name="play">Play</string>
+    <string name="narrate">Narrate</string>
+    <string name="speaker_icon">Speaker icon</string>
+    <string name="hint">Hint</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="try_again">Try again!</string>
+    <string name="correct">Correct!</string>
+    <string name="keep_playing_to_earn_more">Keep playing to earn more!</string>
+    <string name="see_you_tomorrow">See you tomorrow!</string>
+    <string name="let_s_stretch">Let\'s stretch!</string>
+
+    <!-- Teacher Menu -->
+    <string name="teacher_menu">Teacher Menu</string>
+    <string name="parent_menu">Parent Menu</string>
+    <string name="enter_your_pin">Enter your PIN</string>
+    <string name="confirm_pin">Confirm PIN</string>
+    <string name="new_pin">New PIN</string>
+    <string name="set_pin">Set PIN</string>
+    <string name="forgot_pin">Forgot PIN?</string>
+    <string name="parent_gate_hint">Hold button for 3 seconds</string>
+    <string name="add_student">Add Student</string>
+    <string name="student_name">Student Name</string>
+
+    <!-- Difficulty -->
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="practice_more">Practice more!</string>
+    <string name="needs_practice">Needs practice</string>
+</resources>

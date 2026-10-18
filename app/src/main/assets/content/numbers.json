@@ -1,0 +1,142 @@
+{
+  "id": "NUMBERS",
+  "title": "Numbers",
+  "description": "Counting, comparing, and adding within ten.",
+  "levels": [
+    {
+      "index": 1,
+      "title": "Numbers 1 and 2",
+      "lessonText": "One apple. Two apples. Count each group out loud.",
+      "prompt": "How many stars do you see if there is one star and one more?",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "guide": "Bilang"
+    },
+    {
+      "index": 2,
+      "title": "Numbers 3 and 4",
+      "lessonText": "Three mangoes. Four bananas. Point to each one as you count.",
+      "prompt": "Which group shows three mangoes?",
+      "choices": ["3", "4", "2", "5"],
+      "correctAnswer": "3",
+      "guide": "Bilang"
+    },
+    {
+      "index": 3,
+      "title": "Numbers 5 and 6",
+      "lessonText": "Five fingers on one hand. Six eggs in a tray.",
+      "prompt": "How many fingers are on one hand?",
+      "choices": ["4", "5", "6", "7"],
+      "correctAnswer": "5",
+      "guide": "Bilang"
+    },
+    {
+      "index": 4,
+      "title": "Numbers 7 and 8",
+      "lessonText": "Seven days in a week. Eight legs on a spider.",
+      "prompt": "How many legs does a spider have?",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "guide": "Bilang"
+    },
+    {
+      "index": 5,
+      "title": "Numbers 9 and 10",
+      "lessonText": "Nine stars, then ten. Ten is two hands of five.",
+      "prompt": "Which number comes after nine?",
+      "choices": ["8", "9", "10", "11"],
+      "correctAnswer": "10",
+      "guide": "Bilang"
+    },
+    {
+      "index": 6,
+      "title": "Count and Drop: 1 to 3",
+      "lessonText": "Drag the right number of fruits into the basket.",
+      "prompt": "The basket has two fruits. Which number matches?",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "guide": "Bilang"
+    },
+    {
+      "index": 7,
+      "title": "Count and Drop: 4 to 6",
+      "lessonText": "Count the items, then choose the matching number.",
+      "prompt": "There are five balloons. Which number matches?",
+      "choices": ["3", "4", "5", "6"],
+      "correctAnswer": "5",
+      "guide": "Bilang"
+    },
+    {
+      "index": 8,
+      "title": "Count and Drop: 7 to 10",
+      "lessonText": "Larger groups need careful counting. Tap each item once.",
+      "prompt": "There are eight fish. Which number matches?",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "guide": "Bilang"
+    },
+    {
+      "index": 9,
+      "title": "Number Order: 1 to 5",
+      "lessonText": "Numbers go in order: 1, 2, 3, 4, 5.",
+      "prompt": "Which number is missing: 1, 2, _, 4, 5?",
+      "choices": ["1", "2", "3", "5"],
+      "correctAnswer": "3",
+      "guide": "Bilang"
+    },
+    {
+      "index": 10,
+      "title": "Number Order: 6 to 10",
+      "lessonText": "Numbers go in order: 6, 7, 8, 9, 10.",
+      "prompt": "Which number is missing: 6, 7, 8, _, 10?",
+      "choices": ["7", "8", "9", "10"],
+      "correctAnswer": "9",
+      "guide": "Bilang"
+    },
+    {
+      "index": 11,
+      "title": "More or Fewer: Small Groups",
+      "lessonText": "Compare two groups. Which one has more?",
+      "prompt": "Three apples or five apples. Which group has more?",
+      "choices": ["Three", "Five", "They are the same", "None"],
+      "correctAnswer": "Five",
+      "guide": "Bilang"
+    },
+    {
+      "index": 12,
+      "title": "More or Fewer: Bigger Groups",
+      "lessonText": "Count both groups, then compare the numbers.",
+      "prompt": "Eight stars or six stars. Which group has fewer?",
+      "choices": ["Eight", "Six", "They are the same", "None"],
+      "correctAnswer": "Six",
+      "guide": "Bilang"
+    },
+    {
+      "index": 13,
+      "title": "Add Within 10",
+      "lessonText": "Adding means putting groups together. 2 + 3 = 5.",
+      "prompt": "Two birds join three birds. How many birds in all?",
+      "choices": ["4", "5", "6", "7"],
+      "correctAnswer": "5",
+      "guide": "Bilang"
+    },
+    {
+      "index": 14,
+      "title": "Take Away Within 10",
+      "lessonText": "Taking away means removing from a group. 5 - 2 = 3.",
+      "prompt": "Five cookies, two are eaten. How many are left?",
+      "choices": ["2", "3", "4", "7"],
+      "correctAnswer": "3",
+      "guide": "Bilang"
+    },
+    {
+      "index": 15,
+      "title": "Numbers Celebration",
+      "lessonText": "Wonderful counting! Let's review everything you learned.",
+      "prompt": "Four cats plus four cats. How many cats in all?",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "guide": "Bilang"
+    }
+  ]
+}

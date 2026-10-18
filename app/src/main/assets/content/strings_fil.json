@@ -1,0 +1,12 @@
+{
+  "debug.greeting": {
+    "text": "Kumusta, {name}! Sama-sama tayong matuto."
+  },
+  "debug.character": {
+    "text": "Ako si {character}, at handa na akong matuto."
+  },
+  "letter.B": {
+    "text": "Ang B ay may tunog na buh, tulad ng bola.",
+    "soundText": "buh"
+  }
+}

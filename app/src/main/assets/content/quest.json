@@ -1,0 +1,97 @@
+{
+  "id": "QUEST",
+  "title": "Quest Quiz",
+  "description": "Mixed review rounds from everything you have learned.",
+  "levels": [
+    {
+      "index": 1,
+      "title": "Quest Round 1",
+      "lessonText": "Let's begin the quest! Answer questions from what you know.",
+      "prompt": "Which picture starts with the sound /a/?",
+      "choices": ["apple", "ball", "cat", "dog"],
+      "correctAnswer": "apple",
+      "guide": "Tala"
+    },
+    {
+      "index": 2,
+      "title": "Quest Round 2",
+      "lessonText": "Round two! Think carefully and choose the best answer.",
+      "prompt": "How many legs does a spider have?",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "guide": "Tala"
+    },
+    {
+      "index": 3,
+      "title": "Quest Round 3",
+      "lessonText": "Keep going! You are getting stronger with every question.",
+      "prompt": "Which shape has three sides?",
+      "choices": ["triangle", "square", "circle", "rectangle"],
+      "correctAnswer": "triangle",
+      "guide": "Tala"
+    },
+    {
+      "index": 4,
+      "title": "Quest Round 4",
+      "lessonText": "The quest gets a little harder. You can do it!",
+      "prompt": "Two birds join three birds. How many birds in all?",
+      "choices": ["4", "5", "6", "7"],
+      "correctAnswer": "5",
+      "guide": "Tala"
+    },
+    {
+      "index": 5,
+      "title": "Quest Round 5",
+      "lessonText": "Halfway through the quest! Stay focused and keep learning.",
+      "prompt": "Your friend has no pencil. What is the kind choice?",
+      "choices": ["Share your pencil", "Keep both pencils", "Hide your pencil", "Walk away"],
+      "correctAnswer": "Share your pencil",
+      "guide": "Tala"
+    },
+    {
+      "index": 6,
+      "title": "Quest Round 6",
+      "lessonText": "Round six! Blend the sounds to find the word.",
+      "prompt": "Blend the sounds /k/ /a/ /t/. What word is it?",
+      "choices": ["cat", "bat", "rat", "mat"],
+      "correctAnswer": "cat",
+      "guide": "Tala"
+    },
+    {
+      "index": 7,
+      "title": "Quest Round 7",
+      "lessonText": "Great focus! Compare the two groups carefully.",
+      "prompt": "Eight stars or six stars. Which group has fewer?",
+      "choices": ["Eight", "Six", "They are the same", "None"],
+      "correctAnswer": "Six",
+      "guide": "Tala"
+    },
+    {
+      "index": 8,
+      "title": "Quest Round 8",
+      "lessonText": "Round eight! Mix colors in your mind.",
+      "prompt": "Blue plus yellow makes which color?",
+      "choices": ["green", "orange", "purple", "red"],
+      "correctAnswer": "green",
+      "guide": "Tala"
+    },
+    {
+      "index": 9,
+      "title": "Quest Round 9",
+      "lessonText": "Almost there! Think about honesty and kindness.",
+      "prompt": "You broke a cup by accident. What is the honest choice?",
+      "choices": ["Tell the truth", "Hide the pieces", "Blame someone", "Say nothing"],
+      "correctAnswer": "Tell the truth",
+      "guide": "Tala"
+    },
+    {
+      "index": 10,
+      "title": "Quest Finale",
+      "lessonText": "You reached the final round! Show everything you have learned.",
+      "prompt": "Four cats plus four cats. How many cats in all?",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "guide": "Tala"
+    }
+  ]
+}

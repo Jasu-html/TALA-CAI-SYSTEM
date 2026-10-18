@@ -1,0 +1,72 @@
+
+[libraries]
+# Kotlin
+kotlin-gradle-plugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20"
+kotlinx-serialization-json = "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0"
+
+# Android Core
+androidx-core-ktx = "androidx.core:core-ktx:1.12.0"
+androidx-lifecycle-runtime-ktx = "androidx.lifecycle:lifecycle-runtime-ktx:2.6.2"
+androidx-activity-compose = "androidx.activity:activity-compose:1.8.1"
+
+# Jetpack Compose
+compose-bom = "androidx.compose:compose-bom:2023.10.01"
+compose-ui = { group = "androidx.compose.ui", name = "ui" }
+compose-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
+compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
+compose-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
+compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+compose-navigation = "androidx.navigation:navigation-compose:2.7.5"
+compose-material-icons-extended = { group = "androidx.compose.material", name = "material-icons-extended" }
+material3-window-size = "androidx.compose.material3:material3-window-size-class:1.1.2"
+
+# Data persistence
+room-runtime = "androidx.room:room-runtime:2.6.1"
+room-ktx = "androidx.room:room-ktx:2.6.1"
+room-compiler = "androidx.room:room-compiler:2.6.1"
+
+datastore-preferences = "androidx.datastore:datastore-preferences:1.0.0"
+
+# Dependency Injection
+hilt-android = "com.google.dagger:hilt-android:2.48"
+hilt-compiler = "com.google.dagger:hilt-compiler:2.48"
+hilt-navigation-compose = "androidx.hilt:hilt-navigation-compose:1.1.0"
+hilt-android-testing = "com.google.dagger:hilt-android-testing:2.48"
+
+# Coroutines
+kotlinx-coroutines-core = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
+kotlinx-coroutines-android = "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3"
+
+# Testing
+junit = "junit:junit:4.13.2"
+androidx-junit = "androidx.test.ext:junit:1.1.5"
+androidx-espresso-core = "androidx.test.espresso:espresso-core:3.5.1"
+robolectric = "org.robolectric:robolectric:4.10.3"
+mockk = "io.mockk:mockk:1.13.7"
+mockk-android = "io.mockk:mockk-android:1.13.7"
+turbine = "app.cash.turbine:turbine:1.0.0"
+room-testing = "androidx.room:room-testing:2.6.1"
+kotlinx-coroutines-test = "org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.3"
+
+# PDF Export
+android-pdf = "com.github.barteksc:android-pdfviewer:3.2.0-beta.5"
+
+[plugins]
+android-application = "com.android.application:8.2.1"
+kotlin-android = "org.jetbrains.kotlin.android:1.9.20"
+kotlin-kapt = "org.jetbrains.kotlin.kapt:1.9.20"
+kotlin-serialization = "org.jetbrains.kotlin.plugin.serialization:1.9.20"
+hilt-android = "com.google.dagger.hilt.android:2.48"
+ksp = "com.google.devtools.ksp:1.9.20-1.0.14"
+
+[bundles]
+compose = ["compose-ui", "compose-ui-tooling-preview", "compose-material3"]
+test = ["junit", "androidx-junit", "robolectric", "mockk", "turbine", "kotlinx-coroutines-test"]
+
+[versions]
+minSdk = "24"
+compileSdk = "34"
+targetSdk = "34"
+kotlin = "1.9.20"
+activityCompose = "1.8.1"
+

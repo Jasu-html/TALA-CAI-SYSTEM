@@ -1,0 +1,142 @@
+{
+  "id": "SHAPES_COLORS_ARTS",
+  "title": "Shapes, Colors, Arts",
+  "description": "Shapes, colors, mixing, patterns, and creative play.",
+  "levels": [
+    {
+      "index": 1,
+      "title": "Circle",
+      "lessonText": "A circle is round with no corners. Find circles around you.",
+      "prompt": "Which picture is a circle?",
+      "choices": ["circle", "square", "triangle", "star"],
+      "correctAnswer": "circle",
+      "guide": "Likha"
+    },
+    {
+      "index": 2,
+      "title": "Square",
+      "lessonText": "A square has four equal sides and four corners.",
+      "prompt": "Which picture is a square?",
+      "choices": ["square", "circle", "triangle", "oval"],
+      "correctAnswer": "square",
+      "guide": "Likha"
+    },
+    {
+      "index": 3,
+      "title": "Triangle",
+      "lessonText": "A triangle has three sides and three corners.",
+      "prompt": "Which picture is a triangle?",
+      "choices": ["triangle", "square", "circle", "rectangle"],
+      "correctAnswer": "triangle",
+      "guide": "Likha"
+    },
+    {
+      "index": 4,
+      "title": "Rectangle",
+      "lessonText": "A rectangle has four sides with two long and two short.",
+      "prompt": "Which picture is a rectangle?",
+      "choices": ["rectangle", "square", "circle", "triangle"],
+      "correctAnswer": "rectangle",
+      "guide": "Likha"
+    },
+    {
+      "index": 5,
+      "title": "Oval",
+      "lessonText": "An oval looks like a stretched circle, like an egg.",
+      "prompt": "Which picture is an oval?",
+      "choices": ["oval", "circle", "square", "triangle"],
+      "correctAnswer": "oval",
+      "guide": "Likha"
+    },
+    {
+      "index": 6,
+      "title": "Shapes Review",
+      "lessonText": "Review circle, square, triangle, rectangle, and oval.",
+      "prompt": "Which shape has three sides?",
+      "choices": ["triangle", "square", "circle", "rectangle"],
+      "correctAnswer": "triangle",
+      "guide": "Likha"
+    },
+    {
+      "index": 7,
+      "title": "Colors: Red and Blue",
+      "lessonText": "Red like a tomato. Blue like the sky. Say the colors.",
+      "prompt": "Which color is like the sunny sky?",
+      "choices": ["blue", "red", "green", "yellow"],
+      "correctAnswer": "blue",
+      "guide": "Likha"
+    },
+    {
+      "index": 8,
+      "title": "Colors: Yellow and Green",
+      "lessonText": "Yellow like a banana. Green like a leaf.",
+      "prompt": "Which color is like a leaf?",
+      "choices": ["green", "yellow", "red", "purple"],
+      "correctAnswer": "green",
+      "guide": "Likha"
+    },
+    {
+      "index": 9,
+      "title": "Colors: Orange and Purple",
+      "lessonText": "Orange like an orange fruit. Purple like an eggplant.",
+      "prompt": "Which color is like an orange fruit?",
+      "choices": ["orange", "purple", "blue", "green"],
+      "correctAnswer": "orange",
+      "guide": "Likha"
+    },
+    {
+      "index": 10,
+      "title": "Colors Review",
+      "lessonText": "Review red, blue, yellow, green, orange, and purple.",
+      "prompt": "Which color is like a ripe tomato?",
+      "choices": ["red", "blue", "green", "yellow"],
+      "correctAnswer": "red",
+      "guide": "Likha"
+    },
+    {
+      "index": 11,
+      "title": "Color Mixing: Red + Yellow",
+      "lessonText": "Mix red and yellow to make orange. Try it with paint.",
+      "prompt": "Red plus yellow makes which color?",
+      "choices": ["orange", "green", "purple", "brown"],
+      "correctAnswer": "orange",
+      "guide": "Likha"
+    },
+    {
+      "index": 12,
+      "title": "Color Mixing: Blue + Yellow",
+      "lessonText": "Mix blue and yellow to make green. Try it with paint.",
+      "prompt": "Blue plus yellow makes which color?",
+      "choices": ["green", "orange", "purple", "red"],
+      "correctAnswer": "green",
+      "guide": "Likha"
+    },
+    {
+      "index": 13,
+      "title": "Banig Patterns",
+      "lessonText": "Patterns repeat. Look at the weave and find what comes next.",
+      "prompt": "Red, blue, red, blue, _. What comes next?",
+      "choices": ["red", "blue", "green", "yellow"],
+      "correctAnswer": "red",
+      "guide": "Likha"
+    },
+    {
+      "index": 14,
+      "title": "Art Review",
+      "lessonText": "Review shapes, colors, mixing, and patterns together.",
+      "prompt": "Which shape is round with no corners?",
+      "choices": ["circle", "square", "triangle", "rectangle"],
+      "correctAnswer": "circle",
+      "guide": "Likha"
+    },
+    {
+      "index": 15,
+      "title": "Free Painting Finale",
+      "lessonText": "Create your own picture using shapes and colors you learned.",
+      "prompt": "Which color do you want to paint the sun?",
+      "choices": ["yellow", "blue", "green", "purple"],
+      "correctAnswer": "yellow",
+      "guide": "Likha"
+    }
+  ]
+}
