@@ -4,6 +4,9 @@
 
     <!-- No INTERNET permission - offline-first app -->
 
+    <!-- Speech recognition for voice name entry -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
     <application
         android:name=".TalaApplication"
         android:allowBackup="true"
