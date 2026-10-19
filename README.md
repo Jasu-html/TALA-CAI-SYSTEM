@@ -729,9 +729,9 @@ Add screenshots to docs/screenshots/ and use a table like this:
 | | |
 |---|---|
 | **Course** | Computer-Aided Instruction (CAI) |
-| **School / College** | *Add here* |
-| **Adviser** | *Add here* |
-| **Group members** | *Add names here* |
+| **School / College** | OLIVAREZ COLLEGE |
+| **Adviser** | MR. DENNIS QUINTO |
+| **Group members** | ALARCIO, ALAGAD, VERDAN |
 
 **License:** to be decided by the team. The bundled fonts (Fredoka and Nunito) are licensed under the SIL Open Font License (OFL). All sound effects are synthesized by `tools/generate_phase2_sfx.js` and contain no third-party audio.
 
