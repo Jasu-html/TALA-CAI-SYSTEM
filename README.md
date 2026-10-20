@@ -6,7 +6,7 @@
 
 ### A Voice-Guided Learning App for Grade 1 Learners
 
-*A fully offline, voice-first Android app that helps Filipino Grade 1 pupils (ages 6-7) learn phonics, numbers, shapes and colors, and good values through talking characters, mini-games, and star rewards.*
+*A fully offline, voice-first Android app that helps Filipino Grade 1 pupils (ages 6-7) learn phonics, numbers, shapes and colors, and good values through talking characters, mini-games, and  star rewards.*
 
 <br>
 
